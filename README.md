@@ -1,4 +1,4 @@
-# Generate_QR-Code
+# Linkedin_QR-Code
 
 LinkedIn Profile QR Code Generator
 
